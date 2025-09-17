@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+data/*.csv
+!data/heart_train.csv
+
+# Model files
+*.pkl
+*.joblib
+models/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
