@@ -1,0 +1,29 @@
+Отчет по модели предсказания риска сердечного приступа
+==================================================
+Дата: 2025-09-17 20:05:30.815725
+Размер dataset: (8685, 23)
+Accuracy: 0.6742
+
+Важность признаков:
+BMI: 0.0827
+Exercise Hours Per Week: 0.0807
+Sedentary Hours Per Day: 0.0801
+Income: 0.0800
+Triglycerides: 0.0799
+Cholesterol: 0.0756
+Systolic blood pressure: 0.0733
+Age: 0.0703
+Heart rate: 0.0691
+Diastolic blood pressure: 0.0670
+Stress Level: 0.0450
+Physical Activity Days Per Week: 0.0410
+Sleep Hours Per Day: 0.0373
+Diet: 0.0272
+Gender: 0.0163
+Obesity: 0.0118
+Medication Use: 0.0117
+Diabetes: 0.0116
+Family History: 0.0115
+Previous Heart Problems: 0.0114
+Alcohol Consumption: 0.0104
+Smoking: 0.0062
